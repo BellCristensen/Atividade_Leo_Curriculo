@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow: 0;
+  }
+  html,
+  body {
+    font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    font-size: 14px;
+    background: #82c4ad;
+    color: rgb(5, 4, 20);
+  }
+  #app {
+    justify-content: center;
+    align-items: center;
+  }
